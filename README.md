@@ -2,8 +2,6 @@
 MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Data Engineer | Data Scientist 
 <br>
 Actively seeking Summer 2022 SWE Internship
-<hr>
-
 
 ## 🙋‍♂️ About Me
 
