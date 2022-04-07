@@ -1,7 +1,7 @@
 ## Hi, I'm Jim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Data Engineer | Data Scientist 
 <br>
-Actively seeking Summer 2022 SWE Internship
+Actively seeking Fall 2022 SWE Internship/Co-op
 
 ## 🙋‍♂️ About Me
 
