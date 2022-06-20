@@ -1,4 +1,4 @@
-## Hi, I'm Jim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
+## Hi, I'm Jim :computer: 
 Software Engineer Intern @ ServiceNow | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Frontend Engineer | Full Stack Engineer 
 <br>
 Actively seeking Fall 2022 SWE Internship/Co-op
