@@ -1,11 +1,11 @@
 ## Hi, I'm Jim :computer: 
 Software Engineer Intern @ ServiceNow | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Frontend Engineer | Full Stack Engineer 
 <br>
-Actively seeking Fall 2022 SWE Internship/Co-op
+Actively seeking Fall 2023 SWE Full-time Opportunities
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying my **1st year @ Georgia Tech**
+- 🔭 I’m currently studying my **2st year @ Georgia Tech**
 
 - 🌱 I’m currently learning **Full Stack Open 2021.**
 
