@@ -7,7 +7,7 @@ Actively seeking Fall 2023 SWE Full-time Opportunities
 
 - 🔭 I’m currently studying my **2st year @ Georgia Tech**
 
-- 🌱 I’m grinding leetcode problem.
+- 🌱 I’m always grinding leetcode problem.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
