@@ -7,11 +7,11 @@ Actively seeking Fall 2023 SWE Full-time Opportunities
 
 - 🔭 I’m currently studying my **2st year @ Georgia Tech**
 
-- 🌱 I’m currently learning **Full Stack Open 2021.**
+- 🌱 I’m grinding leetcode problem.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🥅 2021 Goals: Learning by doing from internship and courses
+- 🥅 2023 Goals: Landing a full time software engineer job!
 
 - 📫 How to reach me: **jyunyan.lu@gmail.com**
 
