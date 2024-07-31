@@ -1,5 +1,5 @@
 ## Hi, I'm Jim :computer: 
-Software Engineer | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Frontend Engineer | Full Stack Engineer 
+Software Engineer | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Full Stack Engineer 
 <br>
 
 ## 🙋‍♂️ About Me
