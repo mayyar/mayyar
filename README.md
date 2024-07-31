@@ -1,17 +1,16 @@
 ## Hi, I'm Jim :computer: 
-Software Engineer Intern @ ServiceNow | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Frontend Engineer | Full Stack Engineer 
+Software Engineer | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Frontend Engineer | Full Stack Engineer 
 <br>
-Actively seeking Fall 2023 SWE Full-time Opportunities
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I recently graduated from **Georgia Tech**
+- 🔭 I graduated from **Georgia Tech** in May 2023
 
 - 🌱 I’m always grinding leetcode problem.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🥅 2023 Goals: Landing a full time software engineer job!
+- 🥅 2024 Goals: Hardworking
 
 - 📫 How to reach me: **jyunyan.lu@gmail.com**
 
