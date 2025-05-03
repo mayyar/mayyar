@@ -2,7 +2,6 @@
 Software Engineer | Georgia Tech Alumni <a href = "https://www.linkedin.com/in/jyun-yan-lu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='24' width='24' style="vertical-align: bottom;" alt="LinkedIn"/></a>
 <a href = "https://www.instagram.com/jy._.lu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height='24' width='24' style="vertical-align: bottom;" alt="Instagram"/></a>
 
-
 ---
 
 ### 🙋‍♂️ About Me
@@ -22,7 +21,7 @@ Software Engineer | Georgia Tech Alumni <a href = "https://www.linkedin.com/in/j
 ---
 ### :medal_military: Projects:
 - 🧑🏻‍💻 Open Source Project | [Minuku](https://github.com/minuku/minuku-android), an Android app designed for crowdsensing and researching people’ daily life behaviors
-- 🧑🏻‍💻 Full Stack Development | [Covid-19 Tracker](https://github.com/mayyar/covid-19-tracker)], a real-time worldwide Covid-19 tracker dashboard with ReactJS, styling it with Material UI.
+- 🧑🏻‍💻 Full Stack Development | [Covid-19 Tracker](https://github.com/mayyar/covid-19-tracker), a real-time worldwide Covid-19 tracker dashboard with ReactJS, styling it with Material UI.
 - 🧑🏻‍💻 Data Mining | [Sentiment Analysis for Comments on Hot News](https://github.com/mayyar/sent-analysis-fb-comments) | Detecting Facebook commenters’ sentiment on hot news, improving data insights
 
 ---
