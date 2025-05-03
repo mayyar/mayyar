@@ -1,32 +1,38 @@
-## Hi, I'm Jim :computer: 
-Software Engineer | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Software Engineer | Full Stack Engineer 
-<br>
+## Hi, I'm Jim Lu 
+Software Engineer | Georgia Tech Alumni <a href = "https://www.linkedin.com/in/jyun-yan-lu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height='24' width='24' style="vertical-align: bottom;" alt="LinkedIn"/></a>
+<a href = "https://www.instagram.com/jy._.lu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height='24' width='24' style="vertical-align: bottom;" alt="Instagram"/></a>
 
-## 🙋‍♂️ About Me
 
-- 🔭 I graduated from **Georgia Tech** in May 2023
+---
 
-- 🌱 I’m always grinding leetcode problem.
+### 🙋‍♂️ About Me
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🐝 I hold a [Master of Science in Electrical and Computer Engineering](https://ece.gatech.edu/) from the [Georgia Institute of Technology](https://www.gatech.edu/), which I completed in May 2023.
 
-- 🥅 2024 Goals: Hardworking
+- 🗽 Currently, I'm a software developer based in New York City with two years of experience in the investment banking industry. My core focus is on **full stack development** and **automation engineering**, where I build end-to-end systems and optimize workflows for efficiency. In addition to that, I’ve had hands-on experience in both **data engineering** and **data science**, including developing ETL pipelines and training machine learning models to support data-driven solutions.
 
-- 📫 How to reach me: **jyunyan.lu@gmail.com**
+### :computer: Work Experience:
+- 🇺🇸 Barclays | Software Developer | Work in Market Post Trade, Network Automation, Ansible Automation
+- 🇺🇸 ServiceNow | Software Engineering Intern | Integrate message channels with ServiceNow platform
+- 🇹🇼 Wistron, Inc. | Software Engineer / Data Scientist | Fine-tune an ML model for Wistron shipment prediction
+- 🇹🇼 Yahoo | Software Engineering Intern | Develop a chatbot to improve customer experience in Android app
+- 🇹🇼 LINE TV | Research and Development Intern | Implement automatic crawling of dynamic websites for revenue system
+- 🇹🇼 Microsoft | Microsoft Student Partner | Promote and delivered solutions using Xamarin, Azure, and Microsoft LUIS (NLU service)
 
-- ⚡ Fun fact: **I love to play basketball and go to the GYM very often.**
+---
+### :medal_military: Projects:
+- 🧑🏻‍💻 Open Source Project | [Minuku](https://github.com/minuku/minuku-android), an Android app designed for crowdsensing and researching people’ daily life behaviors
+- 🧑🏻‍💻 Full Stack Development | [Covid-19 Tracker](https://github.com/mayyar/covid-19-tracker)], a real-time worldwide Covid-19 tracker dashboard with ReactJS, styling it with Material UI.
+- 🧑🏻‍💻 Data Mining | [Sentiment Analysis for Comments on Hot News](https://github.com/mayyar/sent-analysis-fb-comments) | Detecting Facebook commenters’ sentiment on hot news, improving data insights
 
-## 🔗 Connect with me:
-<p align="left">
+---
 
-<a href = "https://www.linkedin.com/in/jyun-yan-lu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__jimlu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## 🚀 Languages and Tools:
+### 🚀 Skills:
+- Programming Languages: Python, Java, C/C++, JavaScript, TypeScript, PHP
+- Web Development: HTML, CSS, Next.js/React.js, Express.js/Node.js, Spring/Spring Boot, Django, FastAPI, Nginx
+- Database: MySQL, MongoDB, PostgreSQL, MS SQL Server
+- Ops: Kubernetes, Docker, GCP, Azure, Git, Kafka, Jenkins, Ansible, JUnit, Mockito
+- [Certifications: Microsoft Azure Data Fundamentals (DP-900)](https://www.credly.com/badges/e4c09a63-e9fd-40a1-ad58-57aea62260bd/public_url), [Microsoft Azure AI Fundamentals (AI-900)](https://www.credly.com/badges/a2eafb69-dd77-48e0-bfdd-a4a11a685ad3/public_url)
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -54,8 +60,3 @@ Software Engineer | MS ECE @ Georgia Tech | EX-Microsoft Student Partner | Softw
     
 </p>
 
-## 📊 Github Stats
-
-<br/>
-
-[![Mayyar's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayyar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
