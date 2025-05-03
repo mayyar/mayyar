@@ -7,7 +7,6 @@ Software Engineer | Georgia Tech Alumni <a href = "https://www.linkedin.com/in/j
 ### 🙋‍♂️ About Me
 
 - 🐝 I graduated from the [Georgia Institute of Technology](https://www.gatech.edu/) with a [Master of Science in Electrical and Computer Engineering](https://ece.gatech.edu/) in May 2023, where I took advanced courses in computer science.
-
 - 🗽 Currently, I'm a software developer based in New York City with two years of experience in the investment banking industry. My core focus is on **full stack development** and **automation engineering**, where I build end-to-end systems and optimize workflows for efficiency. In addition to that, I’ve had hands-on experience in both **data engineering** and **data science**, including developing ETL pipelines and training machine learning models to support data-driven solutions.
 
 ### :computer: Work Experience:
